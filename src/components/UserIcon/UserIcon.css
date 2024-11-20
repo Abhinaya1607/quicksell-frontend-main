@@ -1,0 +1,22 @@
+.user {
+  display: flex;
+}
+
+.usericon {
+  height: 40px;
+  width: 40px;
+  background-color: blue;
+  display: grid;
+  border-radius: 50%;
+  place-items: center;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 600;
+}
+
+.dot {
+  color: grey;
+  position: relative;
+  top: 25px;
+  right: 15px;
+}
